@@ -31,5 +31,5 @@ The following lists a set of R programs that enables the user to perform the ana
   *   [Example 8.2](Ch8/eg8-2.r)
   
 * Chapter 9. Probit Models for Ranking Data
-  *   [Section 9.1.3 Simulation Study](Ch9/9.1.3 Simulation Study.r)
-  *   [Section 9.1.5 Analysis of the APA Election Data](Ch9/9.1.5 Analysis of the APA Election Data.r)
+  *   [Section 9.1.3 Simulation Study](Ch9/9.1.3_simulation_study.r)
+  *   [Section 9.1.5 Analysis of the APA Election Data](Ch9/9.1.5_APA_Election_Data.r)
