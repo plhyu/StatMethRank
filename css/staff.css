@@ -1,0 +1,22 @@
+<style TYPE="text/css">
+td.line { background-color:#0680cd}
+
+table.people { 
+border          :1px solid #81A3C6;
+background-color:#81A3C6;
+}
+
+td.people2 { background-color:#ffffff; width:10;}
+td.people3 { background-color:#ffffff;}
+
+font.people {font-family: Arial, Verdana, Helvetica; font-size:11pt; color: #034692;}
+a.people {font-family: Arial, Verdana, Helvetica; font-size:11pt; color: #034692;}
+
+hr.people{
+border		:0px solid #81A3C6;
+color		:#81A3C6;
+width		:100%;
+height		:2px;
+background	: #81A3C6;
+}
+</style>
