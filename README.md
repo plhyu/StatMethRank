@@ -1,7 +1,7 @@
 
 # Statistical Methods for Ranking Data
 
-![Book](https://home.eduhk.hk/~plhyu/StatMethRank/bookcover1.jpg)
+![Book](https://github.com/plhyu/StatMethRank/blob/da301d1b2aa4063808ac5a4bde00c8b5fdd0d46a/bookcover1.jpg)
 
 This book was motivated by a desire to make available in a single volume many of the results on ranking methods developed by the authors and their collaborators that have appeared in the literature over a period of several years. In many instances, the presentations have a geometric flavor to them. As well there is a concerted effort to introduce real applications in order to exhibit the wide scope of ranking methods. Our hope is that the book will serve as a starting point and encourage students and researchers to make more use of non-parametric ranking methods. The statistical analysis of ranking data forms the main objective in this book.
 
